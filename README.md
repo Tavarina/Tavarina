@@ -2,6 +2,7 @@
 
 - 🔭 Hoje trabalho com Front-end e Back-end
 - 🌱 Estudando Angular 
+- 🌱 Estudando React 
 - 😄 Pronouns: ela/dela
 
 

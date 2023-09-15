@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Fabiana Oliveira 👋
 
 - 🔭 Hoje trabalho com Front-end e Back-end
-- 🌱 Estudando React 
+- 🌱 Estudando React.js atualmente 
 - 😄 Pronouns: ela/dela
 
 
@@ -16,7 +16,10 @@
   <img align="center" alt="Fabi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Fabi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Fabi-Angular" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" >
-  <img align="center" alt="Fabi-Angular" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" >
+  <img align="center" alt="Fabi-React" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" >
+  <img align="center" alt="Fabi-Figma" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <img  align="center" alt="Fabi-Bootstrap" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  <img align="center" alt="Fabi-Java" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
     
   ##
  
